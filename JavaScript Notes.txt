@@ -1,0 +1,23 @@
+# JavaScript is syncronous single threaded language.
+
+
+# Everything in JavaScript happens inside the Everythingxecution context
+
+ - It has two component
+
+   1) Memory component. (Variable Environment)  : Contains variables and functions as key value pairs
+   2) Code component.  ( Thread of execution)  : It is place where whole JavaScript code get executed
+
+
+
+
+
+
+# Hoisting in JavaScript
+
+- Hoisiting is mechanism in JavaScript where we can access the function and variable even before intilise it
+
+- Hoisting is mechanism in JavaScript where function or varainle get intilise before it get decleared
+- Hoisting always happens within the scope of function
+- we can do hoisting only with the 'var' keyword
+- Hoisiting with 'let' and 'const' keyword are not allowed.

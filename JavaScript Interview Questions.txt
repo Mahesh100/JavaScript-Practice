@@ -1,0 +1,4 @@
+
+1) What is hoisting in JavaScript?
+
+2) 
