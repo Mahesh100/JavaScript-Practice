@@ -1,4 +1,4 @@
 
-1) What is hoisting in JavaScript?
+- What is execution context in JavaScript?
 
-2) 
+-  What is hoisting in JavaScript?

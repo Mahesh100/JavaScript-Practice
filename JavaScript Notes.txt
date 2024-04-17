@@ -1,7 +1,20 @@
 # JavaScript is syncronous single threaded language.
 
+# var is used in previous versions of ES6
+ - var has function scope and gloabal scope
+ - var can updated and redecleared within its scope
 
-# Everything in JavaScript happens inside the Everythingxecution context
+# let
+  - let is blocked scope
+  - let can not be redecleared
+
+# const
+  - const is blocked scope
+  - const is used to declear constants
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+# Everything in JavaScript happens inside the  Execution context
 
  - It has two component
 
@@ -21,3 +34,41 @@
 - Hoisting always happens within the scope of function
 - we can do hoisting only with the 'var' keyword
 - Hoisiting with 'let' and 'const' keyword are not allowed.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------
+ # Component in React
+
+  - Component is piece of code which can be reused again and agin 
+  - Component is robust in nature
+  - Component is indpendent in nature
+
+ # Class component in React
+
+ - The component which starts from the class keyword is called class component.
+ - We can use consteuctor inside the class component.
+ - We can create function inside the class component
+ - Class component is statefull component (We can only use state in class component)
+ - If we want simply show data then we use class component.
+ -  Only class component uses Life Cycle Methods
+
+ # Functional Component
+
+ - When we use function inside the component then component is called Functional component
+ - 
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+- super() is keyword in JavaScript
+- super() is used to call the Parant component
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+ # Hooks In React
+
+ - Hook is resuable function which allow us to use state and the other features of React without using
+   class component.
+ - Hook is used when we have created function component in react and we want add state to it then in order to 
+   use state in react we have to use Hooks
+
+  
